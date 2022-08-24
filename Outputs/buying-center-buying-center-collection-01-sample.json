@@ -1,0 +1,19 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-buying-center-reads-rmq-kube/SAP_API_Caller/caller.go#L53",
+	"function": "sap-api-integrations-buying-center-reads-rmq-kube/SAP_API_Caller.(*SAPAPICaller).BuyingCenterCollection",
+	"level": "INFO",
+	"message": [
+		{
+			"ObjectID": "00163E0C6CDB1ED58BD9D573737EB0CB",
+			"BuyingCenterID": "2",
+			"ObjectUUID": "00163E0C-84E2-1ED5-8B8F-9D16A0E593BB",
+			"ObjectTypeCode": "72",
+			"CustomerID": "",
+			"OpportunityID": "",
+			"Name": "New oppty for customer",
+			"EntityLastChangedOn": "2015-07-20T20:06:34+09:00",
+			"ETag": "2015-07-20T20:06:34+09:00"
+		}
+	],
+	"time": "2022-07-28T13:00:39+09:00"
+}

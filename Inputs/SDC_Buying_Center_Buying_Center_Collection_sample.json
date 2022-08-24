@@ -1,0 +1,21 @@
+{
+	"connection_key": "response",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"BuyingCenterCollection": {
+		"ObjectID":"",           
+		"BuyingCenterID":"2",     
+		"ObjectUUID":"",         
+		"ObjectTypeCode":"",     
+		"CustomerID":"",         
+		"OpportunityID":"",      
+		"Name":"",               
+		"EntityLastChangedOn":"",
+		"ETag":""                                           
+	},
+	"api_schema": "BuyingCenter",
+	"accepter": ["BuyingCenterCollection"],
+	"buying_center_code": "2",
+	"deleted": false
+}
